@@ -1,0 +1,8 @@
+[package]
+name = "Namejeff"
+version = "0.1.0"
+authors = ["Franco"]
+
+[dependencies]
+image = "*"
+num-complex = "0.1"
